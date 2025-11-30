@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+> **Purpose**: This site catalogs validated simulation models across domains to combat fragmentation in engineering workflows. By centralizing proven tools and industry standards, we eliminate redundant physics development—saving 80-90% engineering time while leveraging decades of validation. **Stop reinventing the wheel**: inherit robust cores, innovate at boundaries.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[![WIP](https://img.shields.io/badge/Status-WORK%20IN%20PROGRESS-yellow.svg)](https://github.com/)
 
 
-[jekyll-organization]: https://github.com/jekyll
