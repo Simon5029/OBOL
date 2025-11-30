@@ -22,7 +22,7 @@ title: OBOL 🔥
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   Please stop reinventing the wheel, there are plenty of awesome models out there in the wild!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/OBOL" # the subpath of your site, e.g. /blog
 url: "https://simon5029.github.io/OBOL/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Simon5029
 
